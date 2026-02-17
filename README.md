@@ -1,6 +1,6 @@
 <div align="center">
 
-![Eleva Clínicas](./public/assets/logo/logo.elevaclinicas.completo.png)
+![Eleva Clínicas](./public/assets/logo/ligth.logo.elevaclinicas.completo.png)
 
 # Eleva Clínicas
 
