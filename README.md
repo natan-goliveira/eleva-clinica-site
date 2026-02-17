@@ -302,7 +302,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para:
 
 ## 📄 Licença
 
-Este projeto é proprietário e confidencial. Todos os direitos reservados © 2024 Eleva Clínicas.
+Este projeto é proprietário e confidencial. Todos os direitos reservados © 2026 Eleva Clínicas.
 
 ---
 
