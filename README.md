@@ -13,7 +13,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![GSAP](https://img.shields.io/badge/GSAP-3.12-88CE02?style=for-the-badge&logo=greensock)](https://greensock.com/gsap/)
 
-[🌐 Ver Demo](https://73code.com.br) • [📧 Contato](mailto:contato@73code.com.br) • [💬 WhatsApp](https://wa.me/5511999999999)
+[🌐 Ver Demo](https://https://elevaclinicas.com/) • [📧 Contato](mailto:contato@elevaclinicas.com/) • [💬 WhatsApp](https://wa.me/5511999999999)
 
 </div>
 
